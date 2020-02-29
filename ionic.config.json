@@ -1,0 +1,7 @@
+{
+  "name": "RoyalApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
